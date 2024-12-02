@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background:  blue;
+    font-family: "dancing script" serif;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: rgb(205, 133, 145);
+    margin-top: 80xp;
+    display: flex;
+    justify-content: center;
+}
+header{
+    color: black;
+    font-size: 40px;
+    border-bottom: solid 3px  wheat;
+    padding: 20px; 
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+.categoria{
+    background: blue ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.cateoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px:
+}
+.categoria-videos img{
+    height: 200px;
+    opacity: 0,5;
+}
+.categoria
